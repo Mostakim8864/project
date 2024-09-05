@@ -1,0 +1,154 @@
+.body{
+    
+       transition: none; 
+    }
+    
+   
+}
+
+.bg {
+ 
+    background-image: url(./B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+ 
+
+}
+.center{
+    text-align: center;
+}
+.cent-r{
+    text-align: center;
+}
+
+
+nav ul li a {
+    text-decoration: none;
+}
+.btn-2{
+   display: flex;
+    justify-content: center;
+}
+.dt{
+   padding: 100px;
+    justify-content: center;
+ 
+}
+.img{
+   display: flex;
+    justify-content: center;
+ padding: 0px;;
+
+}
+.a{
+    text-align: center;
+  
+
+}
+.main{
+   margin-left: 100px;
+   margin-right: 100px;
+    
+}
+.all-nav{
+    padding:0px;
+}
+.abc{
+    border-radius: 10px; 
+}
+.ab{
+    display: flex; 
+}
+.bc{
+    display: flex;
+    padding-top: 20px; 
+}
+.ca{display: flex;
+ 
+    padding-top: 20px;
+}
+
+.flex{
+    padding-left: 0;
+  padding-top: 20px;
+  padding-right: 400px;
+}
+.img-1{
+  display: flex;
+ justify-content:  right;
+padding-top: 0px;
+}
+.flex-1{ 
+   text-align: right;
+    padding-left: 800px;
+    padding-top:10px;
+    padding-right:0;
+    
+
+ 
+}
+.img-2{
+    justify-content: left;
+     
+}
+.img-3{
+    display: flex;
+    justify-content: right;
+    padding-left: 800px;
+}
+.btn-3{
+    display: flex;
+    justify-content: right;
+    padding: 0;
+}
+.ins{
+    text-align: center;
+}
+.mycurrent{
+    justify-content: center;
+    display: flex;
+}
+.htmg{
+    display: flex;
+   gap: 20px;
+  justify-content: space-between;
+ 
+}
+.fot{
+    background-image: url(./B10A1-Challenge-Begins/assets/handshake.jpg);
+    height: 400px;
+    width: 1400px;
+    justify-content: center;
+   margin-left: 50px;
+ margin-top: 40px;border-radius: 10px;
+}
+.mar{
+    text-align: center;padding-top: 150px;
+
+}
+.ht-1{background-color: aqua; 
+    width: 550px;
+    height: 500px; border-radius: 10px;
+ 
+}.ht-2{
+    background-color: brown;
+    width: 550px;  height: 500px;  border-radius: 10px;
+}
+.ht-3{
+    background-color:antiquewhite ;
+    width: 550px;  height: 500px; 
+    margin-right: 70px; border-radius: 10px;
+}
+.foter{
+    display: flex;
+    justify-content: space-between;  
+    padding-top: 50px;padding-left: 150px;padding-right: 250px;
+    background-color:hwb(223 92% 3%); border-radius: 5px;
+}
+.ftt{display: flex;
+    gap: 20px;
+}
+ 
+ 
+
